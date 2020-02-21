@@ -6,6 +6,5 @@ export function findEmojis(str: string): string[] {
     if(typeof str != 'string') {
         return [];
     }
-
     return toShort(str).match(EMOJI_SHORTCODES) || [];
 }
