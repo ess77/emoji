@@ -1,7 +1,7 @@
 {
   "name": "emoji-search176",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "��#\u0000 \u0000e\u0000m\u0000o\u0000j\u0000i\u0000-\u0000s\u0000e\u0000a\u0000r\u0000c\u0000h\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000 \u0000c\u0000o\u0000c\u0000o\u0000 \u0000\r\u0000 \u0000f\u0000d\u0000d\u0000f\u0000r\u0000r\u0000\r\u0000 \u0000q\u0000s\u0000f\u0000d\u0000s\u0000\r\u0000 \u0000s\u0000f\u0000d\u0000s\u0000 \u0000\r\u0000 \u0000s\u0000s\u0000s\u0000q\u0000 \u0000\r\u0000 \u0000q\u0000s\u0000f\u0000s\u0000d\u0000q\u0000f\u0000q\u0000 \u0000\r\u0000 \u0000s\u0000q\u0000s\u0000s\u0000d\u0000 \u0000 \u0000 \u0000\r\u0000 \u0000q\u0000s\u0000s\u0000s\u0000q\u0000s\u0000s\u0000s\u0000s\u0000q\u0000 \u0000\r\u0000 \u0000e\u0000q\u0000r\u0000r\u0000q\u0000r\u0000r\u0000g\u0000s\u0000g\u0000d\u0000g\u0000s\u0000d\u0000g\u0000f\u0000\r\u0000 \u0000s\u0000g\u0000f\u0000d\u0000g\u0000d\u0000f\u0000g\u0000d\u0000 \u0000 \u0000\r\u0000 \u0000>\u0000d\u0000f\u0000d\u0000s\u0000g\u0000d\u0000*\u0000f\u0000s\u0000*\u0000d\u0000d\u0000g\u0000f\u0000g\u0000f\u0000d\u0000 \u0000 \u0000\r\u0000 \u0000*\u0000*\u0000f\u0000g\u0000f\u0000s\u0000g\u0000f\u0000g\u0000f\u0000d\u0000g\u0000s\u0000g\u0000*\u0000*\u0000 \u0000 \u0000\r\u0000 \u0000s\u0000d\u0000g\u0000f\u0000d\u0000g\u0000d\u0000g\u0000\r\u0000 \u0000\r\u0000 \u0000>\u0000>\u0000 \u0000q\u0000g\u0000d\u0000g\u0000g\u0000g\u0000g\u0000\r\u0000 \u0000-\u0000 \u0000q\u0000g\u0000d\u0000f\u0000g\u0000d\u0000g\u0000f\u0000d\u0000g\u0000d\u0000g\u0000",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm run build",
@@ -10,7 +10,7 @@
   },
   "types": "dist/index.d.ts",
   "keywords": [],
-  "author": "",
+  "author": "ESS",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.7.5"
@@ -18,5 +18,16 @@
   "dependencies": {
     "@types/emojione": "^2.2.6",
     "emojione": "^4.5.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klmop/emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klmop/emoji/issues"
+  },
+  "homepage": "https://github.com/klmop/emoji#readme"
 }
